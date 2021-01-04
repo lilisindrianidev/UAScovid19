@@ -9,7 +9,9 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4adf4aaa-4b38-49b6-b0a7-fb980a5cd579" name="Default Changelist" comment="" />
+    <list default="true" id="4adf4aaa-4b38-49b6-b0a7-fb980a5cd579" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +65,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\matkul akakom\semester 5\praktikum berbasis mobile\covid19\.idea" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1maOhJKB6SwecHLR7nL8PbGN8Kv" />
   <component name="ProjectViewState">
