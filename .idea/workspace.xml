@@ -11,6 +11,8 @@
   <component name="ChangeListManager">
     <list default="true" id="4adf4aaa-4b38-49b6-b0a7-fb980a5cd579" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tugasakhirsemester/lilisindriani/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tugasakhirsemester/lilisindriani/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,8 +82,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="818HGBTQ2229H" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-01-04T15:32:23.991Z" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../covid19" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -175,26 +180,26 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="842" y="137" key="AndroidProcessChooserDialog/0.0.1366.738@0.0.1366.738" timestamp="1609746206929" />
-    <state x="731" y="123" key="FileChooserDialogImpl" timestamp="1609758454322">
+    <state x="731" y="123" key="FileChooserDialogImpl" timestamp="1609774418742">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="731" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1609758454322" />
-    <state width="783" height="239" key="GridCell.Tab.0.bottom" timestamp="1609767040395">
+    <state x="731" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1609774418742" />
+    <state width="783" height="178" key="GridCell.Tab.0.bottom" timestamp="1609774440894">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="783" height="239" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1609767040395" />
-    <state width="783" height="239" key="GridCell.Tab.0.center" timestamp="1609767040395">
+    <state width="783" height="178" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1609774440894" />
+    <state width="783" height="178" key="GridCell.Tab.0.center" timestamp="1609774440893">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="783" height="239" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1609767040395" />
-    <state width="783" height="239" key="GridCell.Tab.0.left" timestamp="1609767040395">
+    <state width="783" height="178" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1609774440893" />
+    <state width="783" height="178" key="GridCell.Tab.0.left" timestamp="1609774440892">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="783" height="239" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1609767040395" />
-    <state width="783" height="239" key="GridCell.Tab.0.right" timestamp="1609767040395">
+    <state width="783" height="178" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1609774440892" />
+    <state width="783" height="178" key="GridCell.Tab.0.right" timestamp="1609774440894">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="783" height="239" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1609767040395" />
+    <state width="783" height="178" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1609774440894" />
     <state width="589" height="226" key="GridCell.Tab.1.bottom" timestamp="1609751442038">
       <screen x="0" y="0" width="1366" height="738" />
     </state>

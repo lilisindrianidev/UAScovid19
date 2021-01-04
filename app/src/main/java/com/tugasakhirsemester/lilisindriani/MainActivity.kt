@@ -33,12 +33,13 @@ class MainActivity : AppCompatActivity() {
                 Log.e("Error",t.message.toString())
             }
 
-            override fun onResponse(call: Call<List<ayo>>, response: Response<List<ayo>>) {
+            override fun onResponse(call: Call<List<ayo>>,
+                                    response: Response<List<ayo>>) {
                 val mayo:List<ayo> = response.body()!!
 
                     val stringBuilder = StringBuilder()
                     for(i in mayo){
-                        stringBuilder[i].append(("Negara : " +i.country))
+                        stringBuilder.append(("Negara : " +i.country))
                         stringBuilder.append(("\n"))
                         stringBuilder.append(("Sembuh : " +i.recovered))
                         stringBuilder.append(("\n"))
@@ -49,10 +50,24 @@ class MainActivity : AppCompatActivity() {
                         stringBuilder.append(("\n"))
 
                     }
-//                    txtUser.movementMethod= ScrollingMovementMethod()
-//                    txtUser.text=stringBuilder
+//                val mayo: List<ayo> = response.body()!!
+//                val mayos = arrayOfNulls<String>(mayo.size)
+//
+//                        for (i in mayo.indices) {
+//                            mayos[i] = mayo[i].country
 
-                listView.adapter = ArrayAdapter(this, simple_list_item_1, stringBuilder)
+
+//                        }
+                    txtUser.movementMethod= ScrollingMovementMethod()
+                    txtUser.text=stringBuilder
+
+//                listView.setAdapter(
+//                    ArrayAdapter(
+//                        applicationContext,
+//                        android.R.layout.simple_list_item_1,
+//                        mayos
+//                    )
+//                )
 
 
 
