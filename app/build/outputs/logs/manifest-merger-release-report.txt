@@ -1,0 +1,1025 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\matkul akakom\semester 5\praktikum berbasis mobile\covid19\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from E:\matkul akakom\semester 5\praktikum berbasis mobile\covid19\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from E:\matkul akakom\semester 5\praktikum berbasis mobile\covid19\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from E:\matkul akakom\semester 5\praktikum berbasis mobile\covid19\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\80913f19362e1a0d5ec8f7f58d86b550\jetified-core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\ba0ed6b90ecdbadb94c34186e81cdf42\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\729728aa7d31c0df7b4b593cb1ac4d16\jetified-play-services-12.0.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\057c1e3c712576caea828616369a0a6e\jetified-play-services-cast-framework-12.0.1\AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\4f01e03b70a1b995020c1b0c3fd7949b\jetified-play-services-cast-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.mediarouter:mediarouter:1.0.0-alpha5] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\717326f4f9e87c0e37b990d32ed52a58\mediarouter-1.0.0-alpha5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\4e039017508058e03141616af225b4eb\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b6d9a7351a9d658fa9d7d2238e9c0b3d\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6782509611fc3440b64c5aa2897ebaa8\jetified-play-services-ads-12.0.1\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\e06341d24a6f59edc2a0d46432901930\jetified-play-services-ads-lite-12.0.1\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\2e258e13cfbdab6702d8779843b65bdf\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\1e4d1c0c428933e574cd25ad3f4d02e3\jetified-play-services-tagmanager-12.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\0665dc99d208b42cb80eca51b875b3aa\jetified-play-services-tagmanager-v4-impl-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\ac95e272ecfce6d697ea53205645697d\jetified-play-services-analytics-impl-12.0.1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\41dd64204a40475af9752fa0c383f02c\jetified-play-services-appinvite-12.0.1\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c450f9a32b4cc77cd32e9b49b75bc46c\jetified-play-services-auth-12.0.1\AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\15e36c82fc5e654baf289b5e6967bceb\jetified-play-services-auth-api-phone-12.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\fb3e9d3b18f2882be832f0ead1c75c77\jetified-play-services-auth-base-12.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-config:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\dea5a8c5b119cd89d8d8bec3f24e2e09\jetified-firebase-config-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\4c318e25483f74b0b8fc69659a01201a\jetified-play-services-awareness-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-games:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c351422a2849f881411b1778627d76d0\jetified-play-services-games-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\31f962a73fe6882f89d643176c84cdb1\jetified-play-services-drive-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\3f30721272ab274fe0ba2547b5e2c6ba\jetified-play-services-fido-12.0.1\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\a58305f21260251d6165da239221328a\jetified-firebase-auth-12.0.1\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\fde832d5b9ddccfd3f06d994a108cebe\jetified-firebase-dynamic-links-12.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\0164dd948d6e393cf64427b3863dd52a\jetified-play-services-fitness-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\f6e79a14fa46b75629ea4e24ccd47c5a\jetified-play-services-gcm-12.0.1\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\f1886c61fe3d7fd984882d67175c7523\jetified-firebase-appindexing-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\8dc1620a1a1f51f3919d1e77845108cb\jetified-play-services-wallet-12.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6d1c3a4d8a144a27b3b92902b2d91c90\jetified-play-services-identity-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\544abe873a959d682217d2abe48a29ef\jetified-play-services-iid-12.0.1\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\220a274152fb9ce3e75015e34f6569c9\jetified-play-services-instantapps-12.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-location:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\2aae227cffd1e33e845821d8fa697717\jetified-play-services-location-12.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\f60491d4a80280ff74b7e2ab41ab234f\jetified-play-services-places-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\2d5805248fe692c29e2c5c4e84bd4f69\jetified-play-services-maps-12.0.1\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\45fed4e20af3a9f454a96174385f818a\jetified-play-services-nearby-12.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\bb2ce95c917205760e86bad12a490b6b\jetified-play-services-panorama-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\3d6db9ddc6c36a2e7a8144da34b291ad\jetified-play-services-plus-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\bbd7063a01707e152e06ff6a3bc71587\jetified-play-services-safetynet-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\94bb1720fbdb74ec0329d23f70932056\jetified-play-services-vision-12.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\42d78c4df4c6d068b18999f9f1dadba1\jetified-play-services-vision-common-12.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\5dd58feb93492ec5b15fdf4012f8bfaa\jetified-play-services-wearable-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\1c04fb6084496923e3ce4d397ae818b5\jetified-play-services-base-12.0.1\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\04f928dd4e7d11b0b5b7ac4505ecb360\jetified-firebase-crash-12.0.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.firebase:firebase-database:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\21ddedd90f8f257b872e2004ba6ce28c\jetified-firebase-database-12.0.1\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6cd8a1fe08dd61493cdedb1015644cac\jetified-firebase-database-connection-12.0.1\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\d9c4cb184bb6dbab056cb16d63b336f1\jetified-firebase-messaging-12.0.1\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\be448c0f9f62344806de1f8cb04d0f91\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6781622b0a06d3eb25984877ae26a6dc\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:17:1-54:12
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\692111dfe3e807f613cefca3a001ba45\jetified-firebase-analytics-impl-12.0.1\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b277bb93d927a85c596a5d485485d805\jetified-firebase-iid-12.0.1\AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-storage:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\4ecf9921a58b0f0a29409b16f22660cd\jetified-firebase-storage-12.0.1\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\0bb43cce7cbc665ca745c6c15f6249c0\jetified-firebase-storage-common-12.0.1\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-common:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\8f70746a0de82ee925784a690c965372\jetified-firebase-common-12.0.1\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\91f049bb0e56134b6291e576e9311c3b\jetified-play-services-gass-12.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\0e26b91d6c7f519ddd70b4f786823e1f\jetified-play-services-tasks-12.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c59a4581370fc6ba4286a0755d3fb350\jetified-play-services-basement-12.0.1\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\bf8b737aa06780ce71e42516cac8efab\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\196689ac7938efd9fe7bde63e1bf8c1a\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b5466dcfe12488b715be006750d7ab23\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\4dbee90ad7ef76bc50a189b2467e43c8\recyclerview-1.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\24e0220640645498700fd025d00cbee9\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\2a612bd4c425dcfbfc1a3a304e287881\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c12747f68fadffbb0e0ad871896b687f\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.palette:palette:1.0.0-rc01] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\5b7eac85beab048b2f75e89f05edb2f4\palette-1.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\76e2c37ae32353ccc0fe554bfc39f522\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6f621cac338d61e4657df2851636b5fa\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\f128d6cea3d455c774f9a9ff8c16c636\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\4641752ec657f9b4a42d6a06f25d7d22\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\4105de63edbfe1f7a89f44426cee4e60\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\421595daf2c691dedd5c6b994b674539\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\1376040c7d3147fc2c401857e5e5a47d\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\a30017872b14105a400314921d5cb62e\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media2:media2:1.0.0-alpha02] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\5e327eefcec8c3aa14f656cc85e8a212\jetified-media2-1.0.0-alpha02\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\7d26c1198e9e9b91c6c8304fbdc008ea\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\7883f5b2dab973bb3ded7066b810b9ab\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\4ce449428576c173262907fc1e6b1200\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\81112976e9a5a57f038e5cfed90af170\core-1.3.2\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\22f084678c0c8123034752ff82b9a006\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6118f679eabfffe3c12f082544a87853\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\d86a462a03ac6ffb4f3ab144448281f8\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\fed0f8ee682bb48ac1e603badd88b3de\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\aa817d39ca4f9f9f764e5a0b70163814\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6ba1de9be899b775fb2e622bcf9ee329\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b77732ae052c8a7beadaefc4f5cc2d1b\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\cfdba3a9d264c21140cf4b27a073b375\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\ef7f8b788d30752a01fb2308ec81e29a\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\7ab9174479fb69088763d43ae7121c6c\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\f99660dd63e7ed3a1e117a2af2f25bf8\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\0a9c6c10530aac001e1e59b7495bfbcb\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\560233c563a899d6c4bd79a8e991f05b\jetified-play-services-ads-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\9afc0e7ba4b5871260b43489219e86ca\jetified-play-services-ads-lite-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b4a10e56b403524dfd80b10d0715bcbe\jetified-play-services-analytics-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\981aa657d62fdb34c621fbd53f7947ea\jetified-play-services-analytics-impl-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c243c3aabbe08d8b5b92cf3cbe4def0d\jetified-play-services-appinvite-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\461680d3d42116e50a56e6fb825a5245\jetified-play-services-auth-api-phone-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\41bd46e653d84bf6170e3fbed98649cc\jetified-play-services-auth-base-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\fd79181ac9ee2b4957e7da2e985631ca\jetified-play-services-base-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\0f029ef7a0dcc779dca10f9ab647e67f\jetified-play-services-cast-framework-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\3fb36a11d7cfa66bc44b17266c2da6be\jetified-play-services-cast-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\594891d41f54a027b9259d1969c2ac20\jetified-play-services-basement-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\346d9222df0112212edf95c54b8d5f4e\jetified-firebase-config-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\e18336c3689ee9f7bf97cec6ed42e8e5\jetified-play-services-awareness-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\92444ce9c03c928d4ad7f351220e2745\jetified-firebase-crash-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c57fead63e85700ea2a6761ffb999012\jetified-play-services-drive-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c0da1ee7282f43d983e9166ab7f7b46f\jetified-play-services-fido-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\5136bae30660ddefc9b26462480fadb3\jetified-firebase-auth-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\39fa24667a2168d325b60706044fe4de\jetified-firebase-database-connection-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c20aaff23efc55c6b1f5d8aa35562164\jetified-firebase-database-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\a9cb690ec3f940321c7f1c0c187e6960\jetified-firebase-dynamic-links-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\e6318d6966166a89790c097170cad2ef\jetified-firebase-iid-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\8e0212f3ad546cdf9eeb2e350567b650\jetified-firebase-messaging-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\793e2f6a0371b0040ffea1f05a96083e\jetified-firebase-storage-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\f3cb2f108a77be463e118e36a559428a\jetified-firebase-storage-common-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\ed72aa7fff40aa7e397f487151e6a3dc\jetified-firebase-common-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6aa4bb7aad60c32db327ea36cfc4cb54\jetified-play-services-fitness-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\7ba8d84b46ed8c716de2a7afdd6f5fcd\jetified-play-services-games-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\ad5d98d5c0556b5deb7a8aa3e7614fe7\jetified-play-services-gass-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\741862a2a6529cd94225a43582b48eb3\jetified-play-services-gcm-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c509b673bb360ee28a242916285e087e\jetified-firebase-appindexing-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\a65e454bd6091f7b208f946ca981f78e\jetified-play-services-identity-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\4f6b280b35030a4082d308db2fca3b32\jetified-play-services-iid-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\e7439eb90de1dd9c285e0da6b3db66bd\jetified-play-services-instantapps-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\f7a9f438a4e5651c88e6d8b9ce7b12ff\jetified-play-services-location-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\bf6ff9f5e5c3b1539e7a5c2563aa3e20\jetified-play-services-maps-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6373a7de6495cb16ed7a7ccbdf21c601\jetified-firebase-analytics-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\a4b9ee0efb59a9388e1b4d98da18913c\jetified-firebase-analytics-impl-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\0eebdcc358da56fb2657c6c89c0a15ef\jetified-play-services-nearby-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\a7063573afd235ee37386572b8e3d4cf\jetified-play-services-panorama-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\1832c62834e6b01e41298c16dfaabc46\jetified-play-services-places-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\0825b252419e99e51c9932139207c2a1\jetified-play-services-plus-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\f1e78e1745034f3573ab3e6d155d5202\jetified-play-services-safetynet-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b921b74d2d3f94a93b3dd067d52e7006\jetified-play-services-tagmanager-api-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c59940581e73522ede9df0532b1ebd18\jetified-play-services-tagmanager-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\da7b86f2ad178fc06e8d671b5a9b7d4f\jetified-play-services-tagmanager-v4-impl-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\307a782c4641258164f3c1f63891d9fc\jetified-play-services-tasks-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\435c38f50968f2d4714f1b0a80aeb9d7\jetified-play-services-vision-common-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\e176493e4c40c28bad9547dd01201c69\jetified-play-services-vision-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\ae6be6be04f9b697872913a74852cb7c\jetified-play-services-wallet-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\fd046e1a8d1e9f27736da12202442c0c\jetified-play-services-wearable-license-12.0.1\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\matkul akakom\semester 5\praktikum berbasis mobile\covid19\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from E:\matkul akakom\semester 5\praktikum berbasis mobile\covid19\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from E:\matkul akakom\semester 5\praktikum berbasis mobile\covid19\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from E:\matkul akakom\semester 5\praktikum berbasis mobile\covid19\app\src\main\AndroidManifest.xml:3:5-51
+		INJECTED from E:\matkul akakom\semester 5\praktikum berbasis mobile\covid19\app\src\main\AndroidManifest.xml
+		INJECTED from E:\matkul akakom\semester 5\praktikum berbasis mobile\covid19\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\matkul akakom\semester 5\praktikum berbasis mobile\covid19\app\src\main\AndroidManifest.xml
+		ADDED from E:\matkul akakom\semester 5\praktikum berbasis mobile\covid19\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from E:\matkul akakom\semester 5\praktikum berbasis mobile\covid19\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\matkul akakom\semester 5\praktikum berbasis mobile\covid19\app\src\main\AndroidManifest.xml
+		ADDED from E:\matkul akakom\semester 5\praktikum berbasis mobile\covid19\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from E:\matkul akakom\semester 5\praktikum berbasis mobile\covid19\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\matkul akakom\semester 5\praktikum berbasis mobile\covid19\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\matkul akakom\semester 5\praktikum berbasis mobile\covid19\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\e06341d24a6f59edc2a0d46432901930\jetified-play-services-ads-lite-12.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\e06341d24a6f59edc2a0d46432901930\jetified-play-services-ads-lite-12.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\2e258e13cfbdab6702d8779843b65bdf\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\2e258e13cfbdab6702d8779843b65bdf\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\ac95e272ecfce6d697ea53205645697d\jetified-play-services-analytics-impl-12.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\ac95e272ecfce6d697ea53205645697d\jetified-play-services-analytics-impl-12.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\41dd64204a40475af9752fa0c383f02c\jetified-play-services-appinvite-12.0.1\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\41dd64204a40475af9752fa0c383f02c\jetified-play-services-appinvite-12.0.1\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\f6e79a14fa46b75629ea4e24ccd47c5a\jetified-play-services-gcm-12.0.1\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\f6e79a14fa46b75629ea4e24ccd47c5a\jetified-play-services-gcm-12.0.1\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\544abe873a959d682217d2abe48a29ef\jetified-play-services-iid-12.0.1\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\544abe873a959d682217d2abe48a29ef\jetified-play-services-iid-12.0.1\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\2d5805248fe692c29e2c5c4e84bd4f69\jetified-play-services-maps-12.0.1\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\2d5805248fe692c29e2c5c4e84bd4f69\jetified-play-services-maps-12.0.1\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\04f928dd4e7d11b0b5b7ac4505ecb360\jetified-firebase-crash-12.0.1\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\04f928dd4e7d11b0b5b7ac4505ecb360\jetified-firebase-crash-12.0.1\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\be448c0f9f62344806de1f8cb04d0f91\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\be448c0f9f62344806de1f8cb04d0f91\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6781622b0a06d3eb25984877ae26a6dc\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6781622b0a06d3eb25984877ae26a6dc\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\692111dfe3e807f613cefca3a001ba45\jetified-firebase-analytics-impl-12.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\692111dfe3e807f613cefca3a001ba45\jetified-firebase-analytics-impl-12.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b277bb93d927a85c596a5d485485d805\jetified-firebase-iid-12.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b277bb93d927a85c596a5d485485d805\jetified-firebase-iid-12.0.1\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from E:\matkul akakom\semester 5\praktikum berbasis mobile\covid19\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from E:\matkul akakom\semester 5\praktikum berbasis mobile\covid19\app\src\main\AndroidManifest.xml:5:5-21:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\ba0ed6b90ecdbadb94c34186e81cdf42\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\ba0ed6b90ecdbadb94c34186e81cdf42\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\729728aa7d31c0df7b4b593cb1ac4d16\jetified-play-services-12.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\729728aa7d31c0df7b4b593cb1ac4d16\jetified-play-services-12.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\057c1e3c712576caea828616369a0a6e\jetified-play-services-cast-framework-12.0.1\AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\057c1e3c712576caea828616369a0a6e\jetified-play-services-cast-framework-12.0.1\AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\4f01e03b70a1b995020c1b0c3fd7949b\jetified-play-services-cast-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\4f01e03b70a1b995020c1b0c3fd7949b\jetified-play-services-cast-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\e06341d24a6f59edc2a0d46432901930\jetified-play-services-ads-lite-12.0.1\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\e06341d24a6f59edc2a0d46432901930\jetified-play-services-ads-lite-12.0.1\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\2e258e13cfbdab6702d8779843b65bdf\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\2e258e13cfbdab6702d8779843b65bdf\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\0665dc99d208b42cb80eca51b875b3aa\jetified-play-services-tagmanager-v4-impl-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\0665dc99d208b42cb80eca51b875b3aa\jetified-play-services-tagmanager-v4-impl-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\ac95e272ecfce6d697ea53205645697d\jetified-play-services-analytics-impl-12.0.1\AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\ac95e272ecfce6d697ea53205645697d\jetified-play-services-analytics-impl-12.0.1\AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\41dd64204a40475af9752fa0c383f02c\jetified-play-services-appinvite-12.0.1\AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\41dd64204a40475af9752fa0c383f02c\jetified-play-services-appinvite-12.0.1\AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c450f9a32b4cc77cd32e9b49b75bc46c\jetified-play-services-auth-12.0.1\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c450f9a32b4cc77cd32e9b49b75bc46c\jetified-play-services-auth-12.0.1\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-config:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\dea5a8c5b119cd89d8d8bec3f24e2e09\jetified-firebase-config-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\dea5a8c5b119cd89d8d8bec3f24e2e09\jetified-firebase-config-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\4c318e25483f74b0b8fc69659a01201a\jetified-play-services-awareness-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\4c318e25483f74b0b8fc69659a01201a\jetified-play-services-awareness-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c351422a2849f881411b1778627d76d0\jetified-play-services-games-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c351422a2849f881411b1778627d76d0\jetified-play-services-games-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\31f962a73fe6882f89d643176c84cdb1\jetified-play-services-drive-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\31f962a73fe6882f89d643176c84cdb1\jetified-play-services-drive-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\3f30721272ab274fe0ba2547b5e2c6ba\jetified-play-services-fido-12.0.1\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\3f30721272ab274fe0ba2547b5e2c6ba\jetified-play-services-fido-12.0.1\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\a58305f21260251d6165da239221328a\jetified-firebase-auth-12.0.1\AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\a58305f21260251d6165da239221328a\jetified-firebase-auth-12.0.1\AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\fde832d5b9ddccfd3f06d994a108cebe\jetified-firebase-dynamic-links-12.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\fde832d5b9ddccfd3f06d994a108cebe\jetified-firebase-dynamic-links-12.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\0164dd948d6e393cf64427b3863dd52a\jetified-play-services-fitness-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\0164dd948d6e393cf64427b3863dd52a\jetified-play-services-fitness-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\f6e79a14fa46b75629ea4e24ccd47c5a\jetified-play-services-gcm-12.0.1\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\f6e79a14fa46b75629ea4e24ccd47c5a\jetified-play-services-gcm-12.0.1\AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\f1886c61fe3d7fd984882d67175c7523\jetified-firebase-appindexing-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\f1886c61fe3d7fd984882d67175c7523\jetified-firebase-appindexing-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6d1c3a4d8a144a27b3b92902b2d91c90\jetified-play-services-identity-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6d1c3a4d8a144a27b3b92902b2d91c90\jetified-play-services-identity-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\544abe873a959d682217d2abe48a29ef\jetified-play-services-iid-12.0.1\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\544abe873a959d682217d2abe48a29ef\jetified-play-services-iid-12.0.1\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-location:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\2aae227cffd1e33e845821d8fa697717\jetified-play-services-location-12.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\2aae227cffd1e33e845821d8fa697717\jetified-play-services-location-12.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\f60491d4a80280ff74b7e2ab41ab234f\jetified-play-services-places-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\f60491d4a80280ff74b7e2ab41ab234f\jetified-play-services-places-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\2d5805248fe692c29e2c5c4e84bd4f69\jetified-play-services-maps-12.0.1\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\2d5805248fe692c29e2c5c4e84bd4f69\jetified-play-services-maps-12.0.1\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\45fed4e20af3a9f454a96174385f818a\jetified-play-services-nearby-12.0.1\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\45fed4e20af3a9f454a96174385f818a\jetified-play-services-nearby-12.0.1\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\bb2ce95c917205760e86bad12a490b6b\jetified-play-services-panorama-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\bb2ce95c917205760e86bad12a490b6b\jetified-play-services-panorama-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\3d6db9ddc6c36a2e7a8144da34b291ad\jetified-play-services-plus-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\3d6db9ddc6c36a2e7a8144da34b291ad\jetified-play-services-plus-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\bbd7063a01707e152e06ff6a3bc71587\jetified-play-services-safetynet-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\bbd7063a01707e152e06ff6a3bc71587\jetified-play-services-safetynet-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\94bb1720fbdb74ec0329d23f70932056\jetified-play-services-vision-12.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\94bb1720fbdb74ec0329d23f70932056\jetified-play-services-vision-12.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\42d78c4df4c6d068b18999f9f1dadba1\jetified-play-services-vision-common-12.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\42d78c4df4c6d068b18999f9f1dadba1\jetified-play-services-vision-common-12.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\5dd58feb93492ec5b15fdf4012f8bfaa\jetified-play-services-wearable-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\5dd58feb93492ec5b15fdf4012f8bfaa\jetified-play-services-wearable-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\1c04fb6084496923e3ce4d397ae818b5\jetified-play-services-base-12.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\1c04fb6084496923e3ce4d397ae818b5\jetified-play-services-base-12.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\04f928dd4e7d11b0b5b7ac4505ecb360\jetified-firebase-crash-12.0.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\04f928dd4e7d11b0b5b7ac4505ecb360\jetified-firebase-crash-12.0.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\d9c4cb184bb6dbab056cb16d63b336f1\jetified-firebase-messaging-12.0.1\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\d9c4cb184bb6dbab056cb16d63b336f1\jetified-firebase-messaging-12.0.1\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\be448c0f9f62344806de1f8cb04d0f91\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\be448c0f9f62344806de1f8cb04d0f91\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6781622b0a06d3eb25984877ae26a6dc\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6781622b0a06d3eb25984877ae26a6dc\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\692111dfe3e807f613cefca3a001ba45\jetified-firebase-analytics-impl-12.0.1\AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\692111dfe3e807f613cefca3a001ba45\jetified-firebase-analytics-impl-12.0.1\AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b277bb93d927a85c596a5d485485d805\jetified-firebase-iid-12.0.1\AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b277bb93d927a85c596a5d485485d805\jetified-firebase-iid-12.0.1\AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\8f70746a0de82ee925784a690c965372\jetified-firebase-common-12.0.1\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\8f70746a0de82ee925784a690c965372\jetified-firebase-common-12.0.1\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\91f049bb0e56134b6291e576e9311c3b\jetified-play-services-gass-12.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\91f049bb0e56134b6291e576e9311c3b\jetified-play-services-gass-12.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\0e26b91d6c7f519ddd70b4f786823e1f\jetified-play-services-tasks-12.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\0e26b91d6c7f519ddd70b4f786823e1f\jetified-play-services-tasks-12.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c59a4581370fc6ba4286a0755d3fb350\jetified-play-services-basement-12.0.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c59a4581370fc6ba4286a0755d3fb350\jetified-play-services-basement-12.0.1\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.2] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\81112976e9a5a57f038e5cfed90af170\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\81112976e9a5a57f038e5cfed90af170\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6118f679eabfffe3c12f082544a87853\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6118f679eabfffe3c12f082544a87853\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\560233c563a899d6c4bd79a8e991f05b\jetified-play-services-ads-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\560233c563a899d6c4bd79a8e991f05b\jetified-play-services-ads-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\9afc0e7ba4b5871260b43489219e86ca\jetified-play-services-ads-lite-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\9afc0e7ba4b5871260b43489219e86ca\jetified-play-services-ads-lite-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b4a10e56b403524dfd80b10d0715bcbe\jetified-play-services-analytics-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b4a10e56b403524dfd80b10d0715bcbe\jetified-play-services-analytics-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\981aa657d62fdb34c621fbd53f7947ea\jetified-play-services-analytics-impl-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\981aa657d62fdb34c621fbd53f7947ea\jetified-play-services-analytics-impl-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c243c3aabbe08d8b5b92cf3cbe4def0d\jetified-play-services-appinvite-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c243c3aabbe08d8b5b92cf3cbe4def0d\jetified-play-services-appinvite-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\461680d3d42116e50a56e6fb825a5245\jetified-play-services-auth-api-phone-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\461680d3d42116e50a56e6fb825a5245\jetified-play-services-auth-api-phone-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\41bd46e653d84bf6170e3fbed98649cc\jetified-play-services-auth-base-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\41bd46e653d84bf6170e3fbed98649cc\jetified-play-services-auth-base-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\fd79181ac9ee2b4957e7da2e985631ca\jetified-play-services-base-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\fd79181ac9ee2b4957e7da2e985631ca\jetified-play-services-base-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\0f029ef7a0dcc779dca10f9ab647e67f\jetified-play-services-cast-framework-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\0f029ef7a0dcc779dca10f9ab647e67f\jetified-play-services-cast-framework-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\3fb36a11d7cfa66bc44b17266c2da6be\jetified-play-services-cast-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\3fb36a11d7cfa66bc44b17266c2da6be\jetified-play-services-cast-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\594891d41f54a027b9259d1969c2ac20\jetified-play-services-basement-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\594891d41f54a027b9259d1969c2ac20\jetified-play-services-basement-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\346d9222df0112212edf95c54b8d5f4e\jetified-firebase-config-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\346d9222df0112212edf95c54b8d5f4e\jetified-firebase-config-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\e18336c3689ee9f7bf97cec6ed42e8e5\jetified-play-services-awareness-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\e18336c3689ee9f7bf97cec6ed42e8e5\jetified-play-services-awareness-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\92444ce9c03c928d4ad7f351220e2745\jetified-firebase-crash-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\92444ce9c03c928d4ad7f351220e2745\jetified-firebase-crash-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c57fead63e85700ea2a6761ffb999012\jetified-play-services-drive-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c57fead63e85700ea2a6761ffb999012\jetified-play-services-drive-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c0da1ee7282f43d983e9166ab7f7b46f\jetified-play-services-fido-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c0da1ee7282f43d983e9166ab7f7b46f\jetified-play-services-fido-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\5136bae30660ddefc9b26462480fadb3\jetified-firebase-auth-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\5136bae30660ddefc9b26462480fadb3\jetified-firebase-auth-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\39fa24667a2168d325b60706044fe4de\jetified-firebase-database-connection-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\39fa24667a2168d325b60706044fe4de\jetified-firebase-database-connection-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c20aaff23efc55c6b1f5d8aa35562164\jetified-firebase-database-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c20aaff23efc55c6b1f5d8aa35562164\jetified-firebase-database-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\a9cb690ec3f940321c7f1c0c187e6960\jetified-firebase-dynamic-links-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\a9cb690ec3f940321c7f1c0c187e6960\jetified-firebase-dynamic-links-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\e6318d6966166a89790c097170cad2ef\jetified-firebase-iid-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\e6318d6966166a89790c097170cad2ef\jetified-firebase-iid-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\8e0212f3ad546cdf9eeb2e350567b650\jetified-firebase-messaging-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\8e0212f3ad546cdf9eeb2e350567b650\jetified-firebase-messaging-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\793e2f6a0371b0040ffea1f05a96083e\jetified-firebase-storage-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\793e2f6a0371b0040ffea1f05a96083e\jetified-firebase-storage-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\f3cb2f108a77be463e118e36a559428a\jetified-firebase-storage-common-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\f3cb2f108a77be463e118e36a559428a\jetified-firebase-storage-common-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\ed72aa7fff40aa7e397f487151e6a3dc\jetified-firebase-common-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\ed72aa7fff40aa7e397f487151e6a3dc\jetified-firebase-common-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6aa4bb7aad60c32db327ea36cfc4cb54\jetified-play-services-fitness-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6aa4bb7aad60c32db327ea36cfc4cb54\jetified-play-services-fitness-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\7ba8d84b46ed8c716de2a7afdd6f5fcd\jetified-play-services-games-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\7ba8d84b46ed8c716de2a7afdd6f5fcd\jetified-play-services-games-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\ad5d98d5c0556b5deb7a8aa3e7614fe7\jetified-play-services-gass-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\ad5d98d5c0556b5deb7a8aa3e7614fe7\jetified-play-services-gass-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\741862a2a6529cd94225a43582b48eb3\jetified-play-services-gcm-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\741862a2a6529cd94225a43582b48eb3\jetified-play-services-gcm-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c509b673bb360ee28a242916285e087e\jetified-firebase-appindexing-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c509b673bb360ee28a242916285e087e\jetified-firebase-appindexing-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\a65e454bd6091f7b208f946ca981f78e\jetified-play-services-identity-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\a65e454bd6091f7b208f946ca981f78e\jetified-play-services-identity-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\4f6b280b35030a4082d308db2fca3b32\jetified-play-services-iid-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\4f6b280b35030a4082d308db2fca3b32\jetified-play-services-iid-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\e7439eb90de1dd9c285e0da6b3db66bd\jetified-play-services-instantapps-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\e7439eb90de1dd9c285e0da6b3db66bd\jetified-play-services-instantapps-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\f7a9f438a4e5651c88e6d8b9ce7b12ff\jetified-play-services-location-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\f7a9f438a4e5651c88e6d8b9ce7b12ff\jetified-play-services-location-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\bf6ff9f5e5c3b1539e7a5c2563aa3e20\jetified-play-services-maps-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\bf6ff9f5e5c3b1539e7a5c2563aa3e20\jetified-play-services-maps-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6373a7de6495cb16ed7a7ccbdf21c601\jetified-firebase-analytics-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6373a7de6495cb16ed7a7ccbdf21c601\jetified-firebase-analytics-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\a4b9ee0efb59a9388e1b4d98da18913c\jetified-firebase-analytics-impl-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\a4b9ee0efb59a9388e1b4d98da18913c\jetified-firebase-analytics-impl-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\0eebdcc358da56fb2657c6c89c0a15ef\jetified-play-services-nearby-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\0eebdcc358da56fb2657c6c89c0a15ef\jetified-play-services-nearby-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\a7063573afd235ee37386572b8e3d4cf\jetified-play-services-panorama-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\a7063573afd235ee37386572b8e3d4cf\jetified-play-services-panorama-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\1832c62834e6b01e41298c16dfaabc46\jetified-play-services-places-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\1832c62834e6b01e41298c16dfaabc46\jetified-play-services-places-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\0825b252419e99e51c9932139207c2a1\jetified-play-services-plus-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\0825b252419e99e51c9932139207c2a1\jetified-play-services-plus-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\f1e78e1745034f3573ab3e6d155d5202\jetified-play-services-safetynet-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\f1e78e1745034f3573ab3e6d155d5202\jetified-play-services-safetynet-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b921b74d2d3f94a93b3dd067d52e7006\jetified-play-services-tagmanager-api-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b921b74d2d3f94a93b3dd067d52e7006\jetified-play-services-tagmanager-api-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c59940581e73522ede9df0532b1ebd18\jetified-play-services-tagmanager-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c59940581e73522ede9df0532b1ebd18\jetified-play-services-tagmanager-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\da7b86f2ad178fc06e8d671b5a9b7d4f\jetified-play-services-tagmanager-v4-impl-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\da7b86f2ad178fc06e8d671b5a9b7d4f\jetified-play-services-tagmanager-v4-impl-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\307a782c4641258164f3c1f63891d9fc\jetified-play-services-tasks-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\307a782c4641258164f3c1f63891d9fc\jetified-play-services-tasks-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\435c38f50968f2d4714f1b0a80aeb9d7\jetified-play-services-vision-common-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\435c38f50968f2d4714f1b0a80aeb9d7\jetified-play-services-vision-common-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\e176493e4c40c28bad9547dd01201c69\jetified-play-services-vision-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\e176493e4c40c28bad9547dd01201c69\jetified-play-services-vision-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\ae6be6be04f9b697872913a74852cb7c\jetified-play-services-wallet-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\ae6be6be04f9b697872913a74852cb7c\jetified-play-services-wallet-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\fd046e1a8d1e9f27736da12202442c0c\jetified-play-services-wearable-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\fd046e1a8d1e9f27736da12202442c0c\jetified-play-services-wearable-license-12.0.1\AndroidManifest.xml:22:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\81112976e9a5a57f038e5cfed90af170\core-1.3.2\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from E:\matkul akakom\semester 5\praktikum berbasis mobile\covid19\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from E:\matkul akakom\semester 5\praktikum berbasis mobile\covid19\app\src\main\AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from E:\matkul akakom\semester 5\praktikum berbasis mobile\covid19\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from E:\matkul akakom\semester 5\praktikum berbasis mobile\covid19\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from E:\matkul akakom\semester 5\praktikum berbasis mobile\covid19\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from E:\matkul akakom\semester 5\praktikum berbasis mobile\covid19\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.tugasakhirsemester.lilisindriani.MainActivity
+ADDED from E:\matkul akakom\semester 5\praktikum berbasis mobile\covid19\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from E:\matkul akakom\semester 5\praktikum berbasis mobile\covid19\app\src\main\AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\matkul akakom\semester 5\praktikum berbasis mobile\covid19\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from E:\matkul akakom\semester 5\praktikum berbasis mobile\covid19\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from E:\matkul akakom\semester 5\praktikum berbasis mobile\covid19\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\matkul akakom\semester 5\praktikum berbasis mobile\covid19\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from E:\matkul akakom\semester 5\praktikum berbasis mobile\covid19\app\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from E:\matkul akakom\semester 5\praktikum berbasis mobile\covid19\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\matkul akakom\semester 5\praktikum berbasis mobile\covid19\app\src\main\AndroidManifest.xml
+INJECTED from E:\matkul akakom\semester 5\praktikum berbasis mobile\covid19\app\src\main\AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\80913f19362e1a0d5ec8f7f58d86b550\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\80913f19362e1a0d5ec8f7f58d86b550\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\ba0ed6b90ecdbadb94c34186e81cdf42\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\ba0ed6b90ecdbadb94c34186e81cdf42\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\729728aa7d31c0df7b4b593cb1ac4d16\jetified-play-services-12.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\729728aa7d31c0df7b4b593cb1ac4d16\jetified-play-services-12.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\057c1e3c712576caea828616369a0a6e\jetified-play-services-cast-framework-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\057c1e3c712576caea828616369a0a6e\jetified-play-services-cast-framework-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\4f01e03b70a1b995020c1b0c3fd7949b\jetified-play-services-cast-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\4f01e03b70a1b995020c1b0c3fd7949b\jetified-play-services-cast-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.mediarouter:mediarouter:1.0.0-alpha5] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\717326f4f9e87c0e37b990d32ed52a58\mediarouter-1.0.0-alpha5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.mediarouter:mediarouter:1.0.0-alpha5] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\717326f4f9e87c0e37b990d32ed52a58\mediarouter-1.0.0-alpha5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\4e039017508058e03141616af225b4eb\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\4e039017508058e03141616af225b4eb\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b6d9a7351a9d658fa9d7d2238e9c0b3d\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b6d9a7351a9d658fa9d7d2238e9c0b3d\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6782509611fc3440b64c5aa2897ebaa8\jetified-play-services-ads-12.0.1\AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6782509611fc3440b64c5aa2897ebaa8\jetified-play-services-ads-12.0.1\AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\e06341d24a6f59edc2a0d46432901930\jetified-play-services-ads-lite-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\e06341d24a6f59edc2a0d46432901930\jetified-play-services-ads-lite-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\2e258e13cfbdab6702d8779843b65bdf\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\2e258e13cfbdab6702d8779843b65bdf\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\1e4d1c0c428933e574cd25ad3f4d02e3\jetified-play-services-tagmanager-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\1e4d1c0c428933e574cd25ad3f4d02e3\jetified-play-services-tagmanager-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\0665dc99d208b42cb80eca51b875b3aa\jetified-play-services-tagmanager-v4-impl-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\0665dc99d208b42cb80eca51b875b3aa\jetified-play-services-tagmanager-v4-impl-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\ac95e272ecfce6d697ea53205645697d\jetified-play-services-analytics-impl-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\ac95e272ecfce6d697ea53205645697d\jetified-play-services-analytics-impl-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\41dd64204a40475af9752fa0c383f02c\jetified-play-services-appinvite-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\41dd64204a40475af9752fa0c383f02c\jetified-play-services-appinvite-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c450f9a32b4cc77cd32e9b49b75bc46c\jetified-play-services-auth-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c450f9a32b4cc77cd32e9b49b75bc46c\jetified-play-services-auth-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\15e36c82fc5e654baf289b5e6967bceb\jetified-play-services-auth-api-phone-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\15e36c82fc5e654baf289b5e6967bceb\jetified-play-services-auth-api-phone-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\fb3e9d3b18f2882be832f0ead1c75c77\jetified-play-services-auth-base-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\fb3e9d3b18f2882be832f0ead1c75c77\jetified-play-services-auth-base-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-config:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\dea5a8c5b119cd89d8d8bec3f24e2e09\jetified-firebase-config-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\dea5a8c5b119cd89d8d8bec3f24e2e09\jetified-firebase-config-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\4c318e25483f74b0b8fc69659a01201a\jetified-play-services-awareness-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\4c318e25483f74b0b8fc69659a01201a\jetified-play-services-awareness-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c351422a2849f881411b1778627d76d0\jetified-play-services-games-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c351422a2849f881411b1778627d76d0\jetified-play-services-games-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\31f962a73fe6882f89d643176c84cdb1\jetified-play-services-drive-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\31f962a73fe6882f89d643176c84cdb1\jetified-play-services-drive-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\3f30721272ab274fe0ba2547b5e2c6ba\jetified-play-services-fido-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\3f30721272ab274fe0ba2547b5e2c6ba\jetified-play-services-fido-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\a58305f21260251d6165da239221328a\jetified-firebase-auth-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\a58305f21260251d6165da239221328a\jetified-firebase-auth-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\fde832d5b9ddccfd3f06d994a108cebe\jetified-firebase-dynamic-links-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\fde832d5b9ddccfd3f06d994a108cebe\jetified-firebase-dynamic-links-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\0164dd948d6e393cf64427b3863dd52a\jetified-play-services-fitness-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\0164dd948d6e393cf64427b3863dd52a\jetified-play-services-fitness-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\f6e79a14fa46b75629ea4e24ccd47c5a\jetified-play-services-gcm-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\f6e79a14fa46b75629ea4e24ccd47c5a\jetified-play-services-gcm-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\f1886c61fe3d7fd984882d67175c7523\jetified-firebase-appindexing-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\f1886c61fe3d7fd984882d67175c7523\jetified-firebase-appindexing-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\8dc1620a1a1f51f3919d1e77845108cb\jetified-play-services-wallet-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\8dc1620a1a1f51f3919d1e77845108cb\jetified-play-services-wallet-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6d1c3a4d8a144a27b3b92902b2d91c90\jetified-play-services-identity-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6d1c3a4d8a144a27b3b92902b2d91c90\jetified-play-services-identity-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\544abe873a959d682217d2abe48a29ef\jetified-play-services-iid-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\544abe873a959d682217d2abe48a29ef\jetified-play-services-iid-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\220a274152fb9ce3e75015e34f6569c9\jetified-play-services-instantapps-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\220a274152fb9ce3e75015e34f6569c9\jetified-play-services-instantapps-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\2aae227cffd1e33e845821d8fa697717\jetified-play-services-location-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\2aae227cffd1e33e845821d8fa697717\jetified-play-services-location-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\f60491d4a80280ff74b7e2ab41ab234f\jetified-play-services-places-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\f60491d4a80280ff74b7e2ab41ab234f\jetified-play-services-places-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\2d5805248fe692c29e2c5c4e84bd4f69\jetified-play-services-maps-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\2d5805248fe692c29e2c5c4e84bd4f69\jetified-play-services-maps-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\45fed4e20af3a9f454a96174385f818a\jetified-play-services-nearby-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\45fed4e20af3a9f454a96174385f818a\jetified-play-services-nearby-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\bb2ce95c917205760e86bad12a490b6b\jetified-play-services-panorama-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\bb2ce95c917205760e86bad12a490b6b\jetified-play-services-panorama-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\3d6db9ddc6c36a2e7a8144da34b291ad\jetified-play-services-plus-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\3d6db9ddc6c36a2e7a8144da34b291ad\jetified-play-services-plus-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\bbd7063a01707e152e06ff6a3bc71587\jetified-play-services-safetynet-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\bbd7063a01707e152e06ff6a3bc71587\jetified-play-services-safetynet-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\94bb1720fbdb74ec0329d23f70932056\jetified-play-services-vision-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\94bb1720fbdb74ec0329d23f70932056\jetified-play-services-vision-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\42d78c4df4c6d068b18999f9f1dadba1\jetified-play-services-vision-common-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\42d78c4df4c6d068b18999f9f1dadba1\jetified-play-services-vision-common-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\5dd58feb93492ec5b15fdf4012f8bfaa\jetified-play-services-wearable-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\5dd58feb93492ec5b15fdf4012f8bfaa\jetified-play-services-wearable-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\1c04fb6084496923e3ce4d397ae818b5\jetified-play-services-base-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\1c04fb6084496923e3ce4d397ae818b5\jetified-play-services-base-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\04f928dd4e7d11b0b5b7ac4505ecb360\jetified-firebase-crash-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\04f928dd4e7d11b0b5b7ac4505ecb360\jetified-firebase-crash-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\21ddedd90f8f257b872e2004ba6ce28c\jetified-firebase-database-12.0.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\21ddedd90f8f257b872e2004ba6ce28c\jetified-firebase-database-12.0.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6cd8a1fe08dd61493cdedb1015644cac\jetified-firebase-database-connection-12.0.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6cd8a1fe08dd61493cdedb1015644cac\jetified-firebase-database-connection-12.0.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\d9c4cb184bb6dbab056cb16d63b336f1\jetified-firebase-messaging-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\d9c4cb184bb6dbab056cb16d63b336f1\jetified-firebase-messaging-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\be448c0f9f62344806de1f8cb04d0f91\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\be448c0f9f62344806de1f8cb04d0f91\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6781622b0a06d3eb25984877ae26a6dc\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6781622b0a06d3eb25984877ae26a6dc\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\692111dfe3e807f613cefca3a001ba45\jetified-firebase-analytics-impl-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\692111dfe3e807f613cefca3a001ba45\jetified-firebase-analytics-impl-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b277bb93d927a85c596a5d485485d805\jetified-firebase-iid-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b277bb93d927a85c596a5d485485d805\jetified-firebase-iid-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\4ecf9921a58b0f0a29409b16f22660cd\jetified-firebase-storage-12.0.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\4ecf9921a58b0f0a29409b16f22660cd\jetified-firebase-storage-12.0.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\0bb43cce7cbc665ca745c6c15f6249c0\jetified-firebase-storage-common-12.0.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\0bb43cce7cbc665ca745c6c15f6249c0\jetified-firebase-storage-common-12.0.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\8f70746a0de82ee925784a690c965372\jetified-firebase-common-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\8f70746a0de82ee925784a690c965372\jetified-firebase-common-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\91f049bb0e56134b6291e576e9311c3b\jetified-play-services-gass-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\91f049bb0e56134b6291e576e9311c3b\jetified-play-services-gass-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\0e26b91d6c7f519ddd70b4f786823e1f\jetified-play-services-tasks-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\0e26b91d6c7f519ddd70b4f786823e1f\jetified-play-services-tasks-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c59a4581370fc6ba4286a0755d3fb350\jetified-play-services-basement-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c59a4581370fc6ba4286a0755d3fb350\jetified-play-services-basement-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\bf8b737aa06780ce71e42516cac8efab\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\bf8b737aa06780ce71e42516cac8efab\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\196689ac7938efd9fe7bde63e1bf8c1a\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\196689ac7938efd9fe7bde63e1bf8c1a\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b5466dcfe12488b715be006750d7ab23\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b5466dcfe12488b715be006750d7ab23\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\4dbee90ad7ef76bc50a189b2467e43c8\recyclerview-1.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\4dbee90ad7ef76bc50a189b2467e43c8\recyclerview-1.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\24e0220640645498700fd025d00cbee9\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\24e0220640645498700fd025d00cbee9\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\2a612bd4c425dcfbfc1a3a304e287881\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\2a612bd4c425dcfbfc1a3a304e287881\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c12747f68fadffbb0e0ad871896b687f\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c12747f68fadffbb0e0ad871896b687f\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0-rc01] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\5b7eac85beab048b2f75e89f05edb2f4\palette-1.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0-rc01] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\5b7eac85beab048b2f75e89f05edb2f4\palette-1.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\76e2c37ae32353ccc0fe554bfc39f522\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\76e2c37ae32353ccc0fe554bfc39f522\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6f621cac338d61e4657df2851636b5fa\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6f621cac338d61e4657df2851636b5fa\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\f128d6cea3d455c774f9a9ff8c16c636\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\f128d6cea3d455c774f9a9ff8c16c636\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\4641752ec657f9b4a42d6a06f25d7d22\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\4641752ec657f9b4a42d6a06f25d7d22\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\4105de63edbfe1f7a89f44426cee4e60\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\4105de63edbfe1f7a89f44426cee4e60\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\421595daf2c691dedd5c6b994b674539\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\421595daf2c691dedd5c6b994b674539\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\1376040c7d3147fc2c401857e5e5a47d\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\1376040c7d3147fc2c401857e5e5a47d\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\a30017872b14105a400314921d5cb62e\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\a30017872b14105a400314921d5cb62e\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media2:media2:1.0.0-alpha02] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\5e327eefcec8c3aa14f656cc85e8a212\jetified-media2-1.0.0-alpha02\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media2:media2:1.0.0-alpha02] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\5e327eefcec8c3aa14f656cc85e8a212\jetified-media2-1.0.0-alpha02\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\7d26c1198e9e9b91c6c8304fbdc008ea\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\7d26c1198e9e9b91c6c8304fbdc008ea\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\7883f5b2dab973bb3ded7066b810b9ab\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\7883f5b2dab973bb3ded7066b810b9ab\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\4ce449428576c173262907fc1e6b1200\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\4ce449428576c173262907fc1e6b1200\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\81112976e9a5a57f038e5cfed90af170\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\81112976e9a5a57f038e5cfed90af170\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\22f084678c0c8123034752ff82b9a006\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\22f084678c0c8123034752ff82b9a006\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6118f679eabfffe3c12f082544a87853\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6118f679eabfffe3c12f082544a87853\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\d86a462a03ac6ffb4f3ab144448281f8\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\d86a462a03ac6ffb4f3ab144448281f8\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\fed0f8ee682bb48ac1e603badd88b3de\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\fed0f8ee682bb48ac1e603badd88b3de\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\aa817d39ca4f9f9f764e5a0b70163814\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\aa817d39ca4f9f9f764e5a0b70163814\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6ba1de9be899b775fb2e622bcf9ee329\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6ba1de9be899b775fb2e622bcf9ee329\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b77732ae052c8a7beadaefc4f5cc2d1b\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b77732ae052c8a7beadaefc4f5cc2d1b\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\cfdba3a9d264c21140cf4b27a073b375\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\cfdba3a9d264c21140cf4b27a073b375\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\ef7f8b788d30752a01fb2308ec81e29a\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\ef7f8b788d30752a01fb2308ec81e29a\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\7ab9174479fb69088763d43ae7121c6c\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\7ab9174479fb69088763d43ae7121c6c\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\f99660dd63e7ed3a1e117a2af2f25bf8\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\f99660dd63e7ed3a1e117a2af2f25bf8\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\0a9c6c10530aac001e1e59b7495bfbcb\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\0a9c6c10530aac001e1e59b7495bfbcb\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\560233c563a899d6c4bd79a8e991f05b\jetified-play-services-ads-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\560233c563a899d6c4bd79a8e991f05b\jetified-play-services-ads-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\9afc0e7ba4b5871260b43489219e86ca\jetified-play-services-ads-lite-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\9afc0e7ba4b5871260b43489219e86ca\jetified-play-services-ads-lite-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b4a10e56b403524dfd80b10d0715bcbe\jetified-play-services-analytics-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b4a10e56b403524dfd80b10d0715bcbe\jetified-play-services-analytics-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\981aa657d62fdb34c621fbd53f7947ea\jetified-play-services-analytics-impl-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\981aa657d62fdb34c621fbd53f7947ea\jetified-play-services-analytics-impl-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c243c3aabbe08d8b5b92cf3cbe4def0d\jetified-play-services-appinvite-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c243c3aabbe08d8b5b92cf3cbe4def0d\jetified-play-services-appinvite-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\461680d3d42116e50a56e6fb825a5245\jetified-play-services-auth-api-phone-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\461680d3d42116e50a56e6fb825a5245\jetified-play-services-auth-api-phone-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\41bd46e653d84bf6170e3fbed98649cc\jetified-play-services-auth-base-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\41bd46e653d84bf6170e3fbed98649cc\jetified-play-services-auth-base-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\fd79181ac9ee2b4957e7da2e985631ca\jetified-play-services-base-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\fd79181ac9ee2b4957e7da2e985631ca\jetified-play-services-base-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\0f029ef7a0dcc779dca10f9ab647e67f\jetified-play-services-cast-framework-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\0f029ef7a0dcc779dca10f9ab647e67f\jetified-play-services-cast-framework-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\3fb36a11d7cfa66bc44b17266c2da6be\jetified-play-services-cast-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\3fb36a11d7cfa66bc44b17266c2da6be\jetified-play-services-cast-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\594891d41f54a027b9259d1969c2ac20\jetified-play-services-basement-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\594891d41f54a027b9259d1969c2ac20\jetified-play-services-basement-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\346d9222df0112212edf95c54b8d5f4e\jetified-firebase-config-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\346d9222df0112212edf95c54b8d5f4e\jetified-firebase-config-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\e18336c3689ee9f7bf97cec6ed42e8e5\jetified-play-services-awareness-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\e18336c3689ee9f7bf97cec6ed42e8e5\jetified-play-services-awareness-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\92444ce9c03c928d4ad7f351220e2745\jetified-firebase-crash-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\92444ce9c03c928d4ad7f351220e2745\jetified-firebase-crash-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c57fead63e85700ea2a6761ffb999012\jetified-play-services-drive-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c57fead63e85700ea2a6761ffb999012\jetified-play-services-drive-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c0da1ee7282f43d983e9166ab7f7b46f\jetified-play-services-fido-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c0da1ee7282f43d983e9166ab7f7b46f\jetified-play-services-fido-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\5136bae30660ddefc9b26462480fadb3\jetified-firebase-auth-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\5136bae30660ddefc9b26462480fadb3\jetified-firebase-auth-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\39fa24667a2168d325b60706044fe4de\jetified-firebase-database-connection-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\39fa24667a2168d325b60706044fe4de\jetified-firebase-database-connection-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c20aaff23efc55c6b1f5d8aa35562164\jetified-firebase-database-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c20aaff23efc55c6b1f5d8aa35562164\jetified-firebase-database-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\a9cb690ec3f940321c7f1c0c187e6960\jetified-firebase-dynamic-links-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\a9cb690ec3f940321c7f1c0c187e6960\jetified-firebase-dynamic-links-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\e6318d6966166a89790c097170cad2ef\jetified-firebase-iid-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\e6318d6966166a89790c097170cad2ef\jetified-firebase-iid-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\8e0212f3ad546cdf9eeb2e350567b650\jetified-firebase-messaging-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\8e0212f3ad546cdf9eeb2e350567b650\jetified-firebase-messaging-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\793e2f6a0371b0040ffea1f05a96083e\jetified-firebase-storage-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\793e2f6a0371b0040ffea1f05a96083e\jetified-firebase-storage-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\f3cb2f108a77be463e118e36a559428a\jetified-firebase-storage-common-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\f3cb2f108a77be463e118e36a559428a\jetified-firebase-storage-common-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\ed72aa7fff40aa7e397f487151e6a3dc\jetified-firebase-common-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\ed72aa7fff40aa7e397f487151e6a3dc\jetified-firebase-common-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6aa4bb7aad60c32db327ea36cfc4cb54\jetified-play-services-fitness-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6aa4bb7aad60c32db327ea36cfc4cb54\jetified-play-services-fitness-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\7ba8d84b46ed8c716de2a7afdd6f5fcd\jetified-play-services-games-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\7ba8d84b46ed8c716de2a7afdd6f5fcd\jetified-play-services-games-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\ad5d98d5c0556b5deb7a8aa3e7614fe7\jetified-play-services-gass-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\ad5d98d5c0556b5deb7a8aa3e7614fe7\jetified-play-services-gass-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\741862a2a6529cd94225a43582b48eb3\jetified-play-services-gcm-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\741862a2a6529cd94225a43582b48eb3\jetified-play-services-gcm-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c509b673bb360ee28a242916285e087e\jetified-firebase-appindexing-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c509b673bb360ee28a242916285e087e\jetified-firebase-appindexing-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\a65e454bd6091f7b208f946ca981f78e\jetified-play-services-identity-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\a65e454bd6091f7b208f946ca981f78e\jetified-play-services-identity-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\4f6b280b35030a4082d308db2fca3b32\jetified-play-services-iid-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\4f6b280b35030a4082d308db2fca3b32\jetified-play-services-iid-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\e7439eb90de1dd9c285e0da6b3db66bd\jetified-play-services-instantapps-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\e7439eb90de1dd9c285e0da6b3db66bd\jetified-play-services-instantapps-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\f7a9f438a4e5651c88e6d8b9ce7b12ff\jetified-play-services-location-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\f7a9f438a4e5651c88e6d8b9ce7b12ff\jetified-play-services-location-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\bf6ff9f5e5c3b1539e7a5c2563aa3e20\jetified-play-services-maps-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\bf6ff9f5e5c3b1539e7a5c2563aa3e20\jetified-play-services-maps-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6373a7de6495cb16ed7a7ccbdf21c601\jetified-firebase-analytics-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6373a7de6495cb16ed7a7ccbdf21c601\jetified-firebase-analytics-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\a4b9ee0efb59a9388e1b4d98da18913c\jetified-firebase-analytics-impl-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\a4b9ee0efb59a9388e1b4d98da18913c\jetified-firebase-analytics-impl-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\0eebdcc358da56fb2657c6c89c0a15ef\jetified-play-services-nearby-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\0eebdcc358da56fb2657c6c89c0a15ef\jetified-play-services-nearby-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\a7063573afd235ee37386572b8e3d4cf\jetified-play-services-panorama-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\a7063573afd235ee37386572b8e3d4cf\jetified-play-services-panorama-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\1832c62834e6b01e41298c16dfaabc46\jetified-play-services-places-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\1832c62834e6b01e41298c16dfaabc46\jetified-play-services-places-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\0825b252419e99e51c9932139207c2a1\jetified-play-services-plus-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\0825b252419e99e51c9932139207c2a1\jetified-play-services-plus-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\f1e78e1745034f3573ab3e6d155d5202\jetified-play-services-safetynet-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\f1e78e1745034f3573ab3e6d155d5202\jetified-play-services-safetynet-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b921b74d2d3f94a93b3dd067d52e7006\jetified-play-services-tagmanager-api-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b921b74d2d3f94a93b3dd067d52e7006\jetified-play-services-tagmanager-api-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c59940581e73522ede9df0532b1ebd18\jetified-play-services-tagmanager-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c59940581e73522ede9df0532b1ebd18\jetified-play-services-tagmanager-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\da7b86f2ad178fc06e8d671b5a9b7d4f\jetified-play-services-tagmanager-v4-impl-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\da7b86f2ad178fc06e8d671b5a9b7d4f\jetified-play-services-tagmanager-v4-impl-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\307a782c4641258164f3c1f63891d9fc\jetified-play-services-tasks-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\307a782c4641258164f3c1f63891d9fc\jetified-play-services-tasks-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\435c38f50968f2d4714f1b0a80aeb9d7\jetified-play-services-vision-common-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\435c38f50968f2d4714f1b0a80aeb9d7\jetified-play-services-vision-common-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\e176493e4c40c28bad9547dd01201c69\jetified-play-services-vision-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\e176493e4c40c28bad9547dd01201c69\jetified-play-services-vision-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\ae6be6be04f9b697872913a74852cb7c\jetified-play-services-wallet-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\ae6be6be04f9b697872913a74852cb7c\jetified-play-services-wallet-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\fd046e1a8d1e9f27736da12202442c0c\jetified-play-services-wearable-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\fd046e1a8d1e9f27736da12202442c0c\jetified-play-services-wearable-license-12.0.1\AndroidManifest.xml:20:5-44
+INJECTED from E:\matkul akakom\semester 5\praktikum berbasis mobile\covid19\app\src\main\AndroidManifest.xml
+INJECTED from E:\matkul akakom\semester 5\praktikum berbasis mobile\covid19\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6782509611fc3440b64c5aa2897ebaa8\jetified-play-services-ads-12.0.1\AndroidManifest.xml:23:9-49
+	android:targetSdkVersion
+		INJECTED from E:\matkul akakom\semester 5\praktikum berbasis mobile\covid19\app\src\main\AndroidManifest.xml
+		ADDED from E:\matkul akakom\semester 5\praktikum berbasis mobile\covid19\app\src\main\AndroidManifest.xml
+		INJECTED from E:\matkul akakom\semester 5\praktikum berbasis mobile\covid19\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\matkul akakom\semester 5\praktikum berbasis mobile\covid19\app\src\main\AndroidManifest.xml
+		ADDED from E:\matkul akakom\semester 5\praktikum berbasis mobile\covid19\app\src\main\AndroidManifest.xml
+		INJECTED from E:\matkul akakom\semester 5\praktikum berbasis mobile\covid19\app\src\main\AndroidManifest.xml
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\057c1e3c712576caea828616369a0a6e\jetified-play-services-cast-framework-12.0.1\AndroidManifest.xml:8:9-100
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\057c1e3c712576caea828616369a0a6e\jetified-play-services-cast-framework-12.0.1\AndroidManifest.xml:8:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\057c1e3c712576caea828616369a0a6e\jetified-play-services-cast-framework-12.0.1\AndroidManifest.xml:10:9-104
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\057c1e3c712576caea828616369a0a6e\jetified-play-services-cast-framework-12.0.1\AndroidManifest.xml:10:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\057c1e3c712576caea828616369a0a6e\jetified-play-services-cast-framework-12.0.1\AndroidManifest.xml:11:9-93
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\057c1e3c712576caea828616369a0a6e\jetified-play-services-cast-framework-12.0.1\AndroidManifest.xml:11:18-90
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\e06341d24a6f59edc2a0d46432901930\jetified-play-services-ads-lite-12.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\2e258e13cfbdab6702d8779843b65bdf\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\2e258e13cfbdab6702d8779843b65bdf\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\ac95e272ecfce6d697ea53205645697d\jetified-play-services-analytics-impl-12.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\ac95e272ecfce6d697ea53205645697d\jetified-play-services-analytics-impl-12.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\2d5805248fe692c29e2c5c4e84bd4f69\jetified-play-services-maps-12.0.1\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\2d5805248fe692c29e2c5c4e84bd4f69\jetified-play-services-maps-12.0.1\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\45fed4e20af3a9f454a96174385f818a\jetified-play-services-nearby-12.0.1\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\45fed4e20af3a9f454a96174385f818a\jetified-play-services-nearby-12.0.1\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\be448c0f9f62344806de1f8cb04d0f91\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\be448c0f9f62344806de1f8cb04d0f91\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6781622b0a06d3eb25984877ae26a6dc\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6781622b0a06d3eb25984877ae26a6dc\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\692111dfe3e807f613cefca3a001ba45\jetified-firebase-analytics-impl-12.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\692111dfe3e807f613cefca3a001ba45\jetified-firebase-analytics-impl-12.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b277bb93d927a85c596a5d485485d805\jetified-firebase-iid-12.0.1\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b277bb93d927a85c596a5d485485d805\jetified-firebase-iid-12.0.1\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\e06341d24a6f59edc2a0d46432901930\jetified-play-services-ads-lite-12.0.1\AndroidManifest.xml:24:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\e06341d24a6f59edc2a0d46432901930\jetified-play-services-ads-lite-12.0.1\AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\e06341d24a6f59edc2a0d46432901930\jetified-play-services-ads-lite-12.0.1\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\e06341d24a6f59edc2a0d46432901930\jetified-play-services-ads-lite-12.0.1\AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\e06341d24a6f59edc2a0d46432901930\jetified-play-services-ads-lite-12.0.1\AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\e06341d24a6f59edc2a0d46432901930\jetified-play-services-ads-lite-12.0.1\AndroidManifest.xml:30:13-65
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\2e258e13cfbdab6702d8779843b65bdf\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\ac95e272ecfce6d697ea53205645697d\jetified-play-services-analytics-impl-12.0.1\AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\ac95e272ecfce6d697ea53205645697d\jetified-play-services-analytics-impl-12.0.1\AndroidManifest.xml:27:5-68
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6781622b0a06d3eb25984877ae26a6dc\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6781622b0a06d3eb25984877ae26a6dc\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\692111dfe3e807f613cefca3a001ba45\jetified-firebase-analytics-impl-12.0.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\692111dfe3e807f613cefca3a001ba45\jetified-firebase-analytics-impl-12.0.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b277bb93d927a85c596a5d485485d805\jetified-firebase-iid-12.0.1\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b277bb93d927a85c596a5d485485d805\jetified-firebase-iid-12.0.1\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\2e258e13cfbdab6702d8779843b65bdf\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:27:22-65
+receiver#com.google.android.gms.analytics.AnalyticsReceiver
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\2e258e13cfbdab6702d8779843b65bdf\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:30:9-34:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\2e258e13cfbdab6702d8779843b65bdf\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:32:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\2e258e13cfbdab6702d8779843b65bdf\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\2e258e13cfbdab6702d8779843b65bdf\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:31:13-78
+service#com.google.android.gms.analytics.AnalyticsService
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\2e258e13cfbdab6702d8779843b65bdf\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:36:9-39:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\2e258e13cfbdab6702d8779843b65bdf\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\2e258e13cfbdab6702d8779843b65bdf\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\2e258e13cfbdab6702d8779843b65bdf\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:37:13-77
+service#com.google.android.gms.analytics.AnalyticsJobService
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\2e258e13cfbdab6702d8779843b65bdf\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:40:9-44:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\2e258e13cfbdab6702d8779843b65bdf\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:42:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\2e258e13cfbdab6702d8779843b65bdf\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:43:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\2e258e13cfbdab6702d8779843b65bdf\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:44:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\2e258e13cfbdab6702d8779843b65bdf\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:41:13-80
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\41dd64204a40475af9752fa0c383f02c\jetified-play-services-appinvite-12.0.1\AndroidManifest.xml:25:9-34:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\41dd64204a40475af9752fa0c383f02c\jetified-play-services-appinvite-12.0.1\AndroidManifest.xml:27:13-36
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\41dd64204a40475af9752fa0c383f02c\jetified-play-services-appinvite-12.0.1\AndroidManifest.xml:28:13-59
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\41dd64204a40475af9752fa0c383f02c\jetified-play-services-appinvite-12.0.1\AndroidManifest.xml:26:13-76
+intent-filter#action:name:com.google.android.gms.appinvite.ACTION_PREVIEW+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\41dd64204a40475af9752fa0c383f02c\jetified-play-services-appinvite-12.0.1\AndroidManifest.xml:29:13-33:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\41dd64204a40475af9752fa0c383f02c\jetified-play-services-appinvite-12.0.1\AndroidManifest.xml:30:17-90
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\41dd64204a40475af9752fa0c383f02c\jetified-play-services-appinvite-12.0.1\AndroidManifest.xml:30:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\41dd64204a40475af9752fa0c383f02c\jetified-play-services-appinvite-12.0.1\AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\41dd64204a40475af9752fa0c383f02c\jetified-play-services-appinvite-12.0.1\AndroidManifest.xml:32:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c450f9a32b4cc77cd32e9b49b75bc46c\jetified-play-services-auth-12.0.1\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c450f9a32b4cc77cd32e9b49b75bc46c\jetified-play-services-auth-12.0.1\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c450f9a32b4cc77cd32e9b49b75bc46c\jetified-play-services-auth-12.0.1\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c450f9a32b4cc77cd32e9b49b75bc46c\jetified-play-services-auth-12.0.1\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c450f9a32b4cc77cd32e9b49b75bc46c\jetified-play-services-auth-12.0.1\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c450f9a32b4cc77cd32e9b49b75bc46c\jetified-play-services-auth-12.0.1\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c450f9a32b4cc77cd32e9b49b75bc46c\jetified-play-services-auth-12.0.1\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c450f9a32b4cc77cd32e9b49b75bc46c\jetified-play-services-auth-12.0.1\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c450f9a32b4cc77cd32e9b49b75bc46c\jetified-play-services-auth-12.0.1\AndroidManifest.xml:34:13-89
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\a58305f21260251d6165da239221328a\jetified-firebase-auth-12.0.1\AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\a58305f21260251d6165da239221328a\jetified-firebase-auth-12.0.1\AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\a58305f21260251d6165da239221328a\jetified-firebase-auth-12.0.1\AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\a58305f21260251d6165da239221328a\jetified-firebase-auth-12.0.1\AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\a58305f21260251d6165da239221328a\jetified-firebase-auth-12.0.1\AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\a58305f21260251d6165da239221328a\jetified-firebase-auth-12.0.1\AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\a58305f21260251d6165da239221328a\jetified-firebase-auth-12.0.1\AndroidManifest.xml:24:13-85
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\f6e79a14fa46b75629ea4e24ccd47c5a\jetified-play-services-gcm-12.0.1\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\544abe873a959d682217d2abe48a29ef\jetified-play-services-iid-12.0.1\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\544abe873a959d682217d2abe48a29ef\jetified-play-services-iid-12.0.1\AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b277bb93d927a85c596a5d485485d805\jetified-firebase-iid-12.0.1\AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b277bb93d927a85c596a5d485485d805\jetified-firebase-iid-12.0.1\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\f6e79a14fa46b75629ea4e24ccd47c5a\jetified-play-services-gcm-12.0.1\AndroidManifest.xml:23:22-79
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\2d5805248fe692c29e2c5c4e84bd4f69\jetified-play-services-maps-12.0.1\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\2d5805248fe692c29e2c5c4e84bd4f69\jetified-play-services-maps-12.0.1\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\2d5805248fe692c29e2c5c4e84bd4f69\jetified-play-services-maps-12.0.1\AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\1c04fb6084496923e3ce4d397ae818b5\jetified-play-services-base-12.0.1\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\1c04fb6084496923e3ce4d397ae818b5\jetified-play-services-base-12.0.1\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\1c04fb6084496923e3ce4d397ae818b5\jetified-play-services-base-12.0.1\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\1c04fb6084496923e3ce4d397ae818b5\jetified-play-services-base-12.0.1\AndroidManifest.xml:24:13-79
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\d9c4cb184bb6dbab056cb16d63b336f1\jetified-firebase-messaging-12.0.1\AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\d9c4cb184bb6dbab056cb16d63b336f1\jetified-firebase-messaging-12.0.1\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\d9c4cb184bb6dbab056cb16d63b336f1\jetified-firebase-messaging-12.0.1\AndroidManifest.xml:29:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\d9c4cb184bb6dbab056cb16d63b336f1\jetified-firebase-messaging-12.0.1\AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\d9c4cb184bb6dbab056cb16d63b336f1\jetified-firebase-messaging-12.0.1\AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\d9c4cb184bb6dbab056cb16d63b336f1\jetified-firebase-messaging-12.0.1\AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\d9c4cb184bb6dbab056cb16d63b336f1\jetified-firebase-messaging-12.0.1\AndroidManifest.xml:32:25-75
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\be448c0f9f62344806de1f8cb04d0f91\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:27:9-30:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\be448c0f9f62344806de1f8cb04d0f91\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:29:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\be448c0f9f62344806de1f8cb04d0f91\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\be448c0f9f62344806de1f8cb04d0f91\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:28:13-79
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\be448c0f9f62344806de1f8cb04d0f91\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:32:9-44:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\be448c0f9f62344806de1f8cb04d0f91\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:35:13-37
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\be448c0f9f62344806de1f8cb04d0f91\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:34:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\be448c0f9f62344806de1f8cb04d0f91\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:33:13-87
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.${applicationId}
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\be448c0f9f62344806de1f8cb04d0f91\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:36:13-43:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.com.tugasakhirsemester.lilisindriani
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\be448c0f9f62344806de1f8cb04d0f91\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:36:13-43:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\be448c0f9f62344806de1f8cb04d0f91\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:37:17-72
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\be448c0f9f62344806de1f8cb04d0f91\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:37:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\be448c0f9f62344806de1f8cb04d0f91\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\be448c0f9f62344806de1f8cb04d0f91\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:39:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\be448c0f9f62344806de1f8cb04d0f91\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:42:17-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\be448c0f9f62344806de1f8cb04d0f91\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:42:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6781622b0a06d3eb25984877ae26a6dc\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\692111dfe3e807f613cefca3a001ba45\jetified-firebase-analytics-impl-12.0.1\AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\692111dfe3e807f613cefca3a001ba45\jetified-firebase-analytics-impl-12.0.1\AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6781622b0a06d3eb25984877ae26a6dc\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6781622b0a06d3eb25984877ae26a6dc\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6781622b0a06d3eb25984877ae26a6dc\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6781622b0a06d3eb25984877ae26a6dc\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6781622b0a06d3eb25984877ae26a6dc\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6781622b0a06d3eb25984877ae26a6dc\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6781622b0a06d3eb25984877ae26a6dc\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6781622b0a06d3eb25984877ae26a6dc\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:34:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6781622b0a06d3eb25984877ae26a6dc\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6781622b0a06d3eb25984877ae26a6dc\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6781622b0a06d3eb25984877ae26a6dc\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6781622b0a06d3eb25984877ae26a6dc\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\692111dfe3e807f613cefca3a001ba45\jetified-firebase-analytics-impl-12.0.1\AndroidManifest.xml:34:9-37:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\692111dfe3e807f613cefca3a001ba45\jetified-firebase-analytics-impl-12.0.1\AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6781622b0a06d3eb25984877ae26a6dc\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6781622b0a06d3eb25984877ae26a6dc\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6781622b0a06d3eb25984877ae26a6dc\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6781622b0a06d3eb25984877ae26a6dc\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6781622b0a06d3eb25984877ae26a6dc\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6781622b0a06d3eb25984877ae26a6dc\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6781622b0a06d3eb25984877ae26a6dc\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\6781622b0a06d3eb25984877ae26a6dc\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:48:13-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b277bb93d927a85c596a5d485485d805\jetified-firebase-iid-12.0.1\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b277bb93d927a85c596a5d485485d805\jetified-firebase-iid-12.0.1\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b277bb93d927a85c596a5d485485d805\jetified-firebase-iid-12.0.1\AndroidManifest.xml:29:9-63
+permission#com.tugasakhirsemester.lilisindriani.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b277bb93d927a85c596a5d485485d805\jetified-firebase-iid-12.0.1\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b277bb93d927a85c596a5d485485d805\jetified-firebase-iid-12.0.1\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b277bb93d927a85c596a5d485485d805\jetified-firebase-iid-12.0.1\AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b277bb93d927a85c596a5d485485d805\jetified-firebase-iid-12.0.1\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b277bb93d927a85c596a5d485485d805\jetified-firebase-iid-12.0.1\AndroidManifest.xml:32:22-76
+uses-permission#com.tugasakhirsemester.lilisindriani.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b277bb93d927a85c596a5d485485d805\jetified-firebase-iid-12.0.1\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b277bb93d927a85c596a5d485485d805\jetified-firebase-iid-12.0.1\AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b277bb93d927a85c596a5d485485d805\jetified-firebase-iid-12.0.1\AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b277bb93d927a85c596a5d485485d805\jetified-firebase-iid-12.0.1\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b277bb93d927a85c596a5d485485d805\jetified-firebase-iid-12.0.1\AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b277bb93d927a85c596a5d485485d805\jetified-firebase-iid-12.0.1\AndroidManifest.xml:36:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b277bb93d927a85c596a5d485485d805\jetified-firebase-iid-12.0.1\AndroidManifest.xml:39:13-43:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.tugasakhirsemester.lilisindriani
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b277bb93d927a85c596a5d485485d805\jetified-firebase-iid-12.0.1\AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b277bb93d927a85c596a5d485485d805\jetified-firebase-iid-12.0.1\AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b277bb93d927a85c596a5d485485d805\jetified-firebase-iid-12.0.1\AndroidManifest.xml:40:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b277bb93d927a85c596a5d485485d805\jetified-firebase-iid-12.0.1\AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b277bb93d927a85c596a5d485485d805\jetified-firebase-iid-12.0.1\AndroidManifest.xml:42:27-58
+category#com.tugasakhirsemester.lilisindriani
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b277bb93d927a85c596a5d485485d805\jetified-firebase-iid-12.0.1\AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b277bb93d927a85c596a5d485485d805\jetified-firebase-iid-12.0.1\AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b277bb93d927a85c596a5d485485d805\jetified-firebase-iid-12.0.1\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b277bb93d927a85c596a5d485485d805\jetified-firebase-iid-12.0.1\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b277bb93d927a85c596a5d485485d805\jetified-firebase-iid-12.0.1\AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b277bb93d927a85c596a5d485485d805\jetified-firebase-iid-12.0.1\AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b277bb93d927a85c596a5d485485d805\jetified-firebase-iid-12.0.1\AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b277bb93d927a85c596a5d485485d805\jetified-firebase-iid-12.0.1\AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\b277bb93d927a85c596a5d485485d805\jetified-firebase-iid-12.0.1\AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\8f70746a0de82ee925784a690c965372\jetified-firebase-common-12.0.1\AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\8f70746a0de82ee925784a690c965372\jetified-firebase-common-12.0.1\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\8f70746a0de82ee925784a690c965372\jetified-firebase-common-12.0.1\AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\8f70746a0de82ee925784a690c965372\jetified-firebase-common-12.0.1\AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\8f70746a0de82ee925784a690c965372\jetified-firebase-common-12.0.1\AndroidManifest.xml:9:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c59a4581370fc6ba4286a0755d3fb350\jetified-play-services-basement-12.0.1\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c59a4581370fc6ba4286a0755d3fb350\jetified-play-services-basement-12.0.1\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Mudblood\.gradle\caches\transforms-2\files-2.1\c59a4581370fc6ba4286a0755d3fb350\jetified-play-services-basement-12.0.1\AndroidManifest.xml:24:13-58
